@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "arm64Url": "https://github.com/wuzesh-art/DownloadxAI_Releases/releases/download/v1.3.0/downloadxAI-1.3.0-arm64-v8a.apk",
-  "armeabiUrl": "https://github.com/wuzesh-art/DownloadxAI_Releases/releases/download/v1.3.0/downloadxAI-1.3.0-armeabi-v7a.apk",
+  "versionCode": 5,
+  "versionName": "1.3.1",
+  "arm64Url": "https://github.com/wuzesh-art/DownloadxAI_Releases/releases/download/v1.3.1/downloadxAI-1.3.1-arm64-v8a.apk",
+  "armeabiUrl": "https://github.com/wuzesh-art/DownloadxAI_Releases/releases/download/v1.3.1/downloadxAI-1.3.1-armeabi-v7a.apk",
   "pageUrl": "https://github.com/wuzesh-art/DownloadxAI_Releases/releases/latest"
 }
